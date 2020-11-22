@@ -1,0 +1,1 @@
+http://data.gdeltproject.org/gdeltv2/masterfilelist.txt 主文件列表
